@@ -28,3 +28,4 @@
 >https://stackoverflow.com/questions/18603270/progress-indicator-during-pandas-operations-python 
 >https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
 >https://pythondata.com/visualizing-data-overlaying-charts/
+>Udacity Reviewer from April 4th highlighting changes to meet specifications.
